@@ -1,0 +1,8 @@
+* Z:\home\andy\Workspace\ENCM_467\lab2\ltspice_schematics\part22.asc
+V1 VDD 0 5
+XU1 NC_01 NC_02 NC_03 NC_04 NC_05 Vin 0 Vo NC_06 NC_07 NC_08 NC_09 Vo vdd CMOS4007
+V2 Vin 0 V
+.dc V2 0 5 0.01
+.lib Z:\home\andy\Documents\LTspiceXVII\lib\sub\5824.CD4007.lib
+.backanno
+.end

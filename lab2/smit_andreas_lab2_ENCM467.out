@@ -1,0 +1,10 @@
+\BOOKMARK [1][-]{section.1}{Static Inverter Measurements}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Static Linearly Loaded Inverter}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Static CMOS Inverter}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Analysis of Static Inverter Behaviour}{section.1}% 4
+\BOOKMARK [1][-]{section.2}{Dynamic Inverter Measurements}{}% 5
+\BOOKMARK [2][-]{subsection.2.1}{Dynamic Resistively Loaded Inverter Measurements}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.2}{Dynamic CMOS measurements}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.3}{Analysis of Dynamic response}{section.2}% 8
+\BOOKMARK [1][-]{appendix.A}{Python Code for Data Analysis}{}% 9
+\BOOKMARK [1][-]{appendix.B}{Data Tables}{}% 10
