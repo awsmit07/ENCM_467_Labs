@@ -10,4 +10,8 @@ nMOS inverter
 [
 Lab 2: Static and Dynamic Behaviour of MOSFET inverters
 ](lab2/smit_andreas_lab2_ENCM467.pdf)\
+[
+Lab 3: Static and Dynamic Behaviour of CMOS Logic Gates
+](lab3/smit_andreas_lab3_ENCM467.pdf)\
+
 

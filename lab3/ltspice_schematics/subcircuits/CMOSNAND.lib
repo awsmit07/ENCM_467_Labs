@@ -1,0 +1,10 @@
+* Z:\home\andy\Workspace\ENCM_467\lab3\ltspice_schematics\NAND.asc
+.subckt CMOSNAND Vout A B VDD VSS
+XU1 0 0 B N001 Vout A VSS N001 0 0 0 0 0 VDD CMOS4007
+XU2 Vout VDD B 0 0 A VSS 0 0 0 0 0 Vout VDD CMOS4007
+* Pull Down Network
+* Pull Up Network
+.lib Z:\home\andy\Documents\LTspiceXVII\lib\sub\5824.CD4007.lib
+.ends CMOSNAND
+.backanno
+.end

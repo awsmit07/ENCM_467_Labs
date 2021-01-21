@@ -1,0 +1,23 @@
+Version 4
+SymbolType BLOCK
+ARC Normal -43 -21 -69 20 -56 20 -55 -21
+ARC Normal 4 4 -4 -4 4 -4 -4 4
+ARC Normal -81 -22 0 21 15 1 -53 -33
+ARC Normal -82 21 0 -22 -54 36 15 1
+SYMATTR Prefix X
+SYMATTR Value CMOSNOR
+PIN 0 0 NONE 8
+PINATTR PinName Vout
+PINATTR SpiceOrder 1
+PIN -48 -16 NONE 8
+PINATTR PinName A
+PINATTR SpiceOrder 2
+PIN -48 16 NONE 8
+PINATTR PinName B
+PINATTR SpiceOrder 3
+PIN -16 -16 NONE 8
+PINATTR PinName VDD
+PINATTR SpiceOrder 4
+PIN -16 16 NONE 8
+PINATTR PinName VSS
+PINATTR SpiceOrder 5
