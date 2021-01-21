@@ -1,0 +1,25 @@
+\BOOKMARK [1][-]{section.1}{LT Spice MOSFET Operation}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Operation of a NMOS transistor in LT Spice}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Operation of a PMOS transistor in LT Spice}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Analysis of the nMOS and pMOS circuits.}{section.1}% 4
+\BOOKMARK [3][-]{subsubsection.1.3.1}{Solution of parameters for nMOS circuit}{subsection.1.3}% 5
+\BOOKMARK [3][-]{subsubsection.1.3.2}{Solution of parameters for a pMOS transistor}{subsection.1.3}% 6
+\BOOKMARK [2][-]{subsection.1.4}{Alternative Measurement Method for the threshold voltage}{section.1}% 7
+\BOOKMARK [1][-]{section.2}{An NMOS inverter}{}% 8
+\BOOKMARK [1][-]{section.3}{Comparison of Data to Real Transistor Devices}{}% 9
+\BOOKMARK [2][-]{subsection.3.1}{Calculation of parameters of the real transistors}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.2}{The alternative method for calculating Threshold Voltage}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.3}{NMOS inverter with a real transistor}{section.3}% 12
+\BOOKMARK [1][-]{section.4}{Conclusion}{}% 13
+\BOOKMARK [1][-]{appendix.A}{Raw Data for recorded in experiments}{}% 14
+\BOOKMARK [2][-]{subsection.A.1}{Part 1A}{appendix.A}% 15
+\BOOKMARK [3][-]{subsubsection.A.1.1}{VGS = 2V}{subsection.A.1}% 16
+\BOOKMARK [3][-]{subsubsection.A.1.2}{VGS = 3V}{subsection.A.1}% 17
+\BOOKMARK [3][-]{subsubsection.A.1.3}{VGS = 4V}{subsection.A.1}% 18
+\BOOKMARK [3][-]{subsubsection.A.1.4}{VGS = 5V}{subsection.A.1}% 19
+\BOOKMARK [2][-]{subsection.A.2}{Part 1B}{appendix.A}% 20
+\BOOKMARK [3][-]{subsubsection.A.2.1}{VSG = 2V}{subsection.A.2}% 21
+\BOOKMARK [3][-]{subsubsection.A.2.2}{VSG = 3V}{subsection.A.2}% 22
+\BOOKMARK [3][-]{subsubsection.A.2.3}{VSG = 4V}{subsection.A.2}% 23
+\BOOKMARK [3][-]{subsubsection.A.2.4}{VSG = 5V}{subsection.A.2}% 24
+\BOOKMARK [1][-]{appendix.B}{Python Script for Data Calculation and Graphing}{}% 25
