@@ -1,0 +1,9 @@
+* Z:\home\andy\Workspace\ENCM_467\lab3\ltspice_schematics\NOR.asc
+.subckt CMOSNOR Vout A B VDD VSS
+XU1 0 0 0 0 0 A VSS Vout VSS B N001 Vout N001 VDD CMOS4007
+* Pull Up Network
+* Pull Down Network
+.lib .\5824.CD4007.lib
+.ends CMOSNOR
+.backanno
+.end

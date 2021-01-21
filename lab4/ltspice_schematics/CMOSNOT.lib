@@ -1,0 +1,7 @@
+.subckt CMOSNOT Vout Vin VDD VSS
+XU1 0 0 0 0 0 0 VSS 0 VSS Vin VDD Vout 0 VDD CMOS4007
+.lib .\5824.CD4007.lib
+.ends CMOSNOT
+.backanno
+.end
+

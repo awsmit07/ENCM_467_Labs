@@ -13,5 +13,7 @@ Lab 2: Static and Dynamic Behaviour of MOSFET inverters
 [
 Lab 3: Static and Dynamic Behaviour of CMOS Logic Gates
 ](lab3/smit_andreas_lab3_ENCM467.pdf)\
-
+[
+Lab 4: Building Digital Logic Systems
+](lab4/Group8_Lab4_ENCM_467.tex)\
 
