@@ -1,0 +1,5 @@
+# Ignore log files
+*.log
+
+# Ignore vim swp files
+*.swp
